@@ -1,6 +1,6 @@
 {
   inputs = {
-    nixpkgs.url = "github:NixOS/nixpkgs?ref=nixos-24.05";
+    nixpkgs.url = "github:NixOS/nixpkgs?ref=nixos-24.11";
     flake-utils.url = "github:numtide/flake-utils";
 
     wordwarvi_src.url = "https://master.dl.sourceforge.net/project/wordwarvi/wordwarvi/wordwarvi-1.00/wordwarvi-1.00.tar.gz";
